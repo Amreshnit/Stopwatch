@@ -1,2 +1,2 @@
 # vanilla JS StopWatch
-Live Preview : https://github.com/Amreshnit/Stopwatch.git
+Live Preview : https://amreshnit.github.io/Stopwatch/
